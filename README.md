@@ -1,3 +1,5 @@
 # Webestrowars 2022 Competition
 
-Theme: Atmanirbhar Bharat
+Theme: Blood Donation
+Technology Used: Tailwind CSS + Custom CSS
+Link: https://pushpenderindian.github.io/Webestrowars/
