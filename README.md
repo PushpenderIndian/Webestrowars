@@ -1,1 +1,3 @@
-# Webestrowars 2020 Competition
+# Webestrowars 2022 Competition
+
+Theme: Atmanirbhar Bharat
